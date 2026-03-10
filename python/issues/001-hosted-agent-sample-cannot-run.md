@@ -1,8 +1,10 @@
 # Issue 001: Hosted agents sample cannot run locally
 
-**Status:** Open
-**Date:** 2026-03-10
-**Sample:** `samples/05-end-to-end/hosted_agents/agent_with_hosted_mcp`
+| | |
+|---|---|
+| **Status** | Open |
+| **Date** | 2026-03-10 |
+| **Sample** | `samples/05-end-to-end/hosted_agents/agent_with_hosted_mcp` |
 
 ## Description
 

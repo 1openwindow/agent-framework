@@ -1,8 +1,10 @@
 # Issue 002: Invalid CPU/memory combination causes 400 on deploy
 
-**Status:** Open
-**Date:** 2026-03-10
-**Component:** Foundry Extension (VS Code)
+| | |
+|---|---|
+| **Status** | Open |
+| **Date** | 2026-03-10 |
+| **Component** | Foundry Extension (VS Code) |
 
 ## Description
 
